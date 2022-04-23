@@ -1,1 +1,1 @@
-# Tailwind CSS Framework Self-Taught Project
+# Tailwind CSS Framework Mini Project
